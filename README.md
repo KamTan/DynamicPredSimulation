@@ -4,7 +4,7 @@ Sample code illustrating a simulation study that compares three methods for dyna
 Code to accompany chapter 4 of the thesis by Kamaryn Tanner:
 "Dynamic Prediction, Mediation and Communication for Survival Outcomes, with Applications to Cystic Fibrosis"
   
-For questions and comments regarding the code, please contact Kamaryn Tanner (kamaryn.tanner1@lshtm.ac.uk). As code is updated, it will be posted to https://github.com/KamTan/. 
+For questions and comments regarding the code, please contact Kamaryn Tanner (kamaryn.tanner1@lshtm.ac.uk). As code is updated, it will be posted to https://github.com/KamTan/DynamicPredSimulation. 
 See also my repository github.com/KamTan/DynamicPrediction.
 
 This code was written in R v4.0.2 running on a Windows 10 PC.
